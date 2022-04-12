@@ -15,4 +15,4 @@
   <img class="food-img" src="{food.strMealThumb}" alt="Food image" />
   <p>Category: {food.strCategory}</p>
 </div>
-<div class="btn"><a class="generate" href="https://darling-croissant-57c887.netlify.app/">Generate</a></div>
+<div class="btn"><a class="generate" href="?">Generate</a></div>
